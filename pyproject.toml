@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11, <3.13"
 numpy = "^2.0.1"
 matplotlib = "^3.9.1.post1"
+graphviz = "^0.20.3"
 
 [build-system]
 requires = ["poetry-core"]
